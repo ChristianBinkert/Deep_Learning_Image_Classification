@@ -1,3 +1,6 @@
 #Data
 test.zip
 train.zip
+
+#Checkpoints
+.ipynb_checkpoints/
