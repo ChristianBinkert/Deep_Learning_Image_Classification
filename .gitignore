@@ -4,3 +4,15 @@ train.zip
 
 #Checkpoints
 .ipynb_checkpoints/
+
+#Models
+model_1_1_joblib
+model_1_2_joblib
+model_1_3_joblib
+model_1_4_joblib
+model_1_5_joblib
+model_2_1_joblib
+model_2_2_joblib
+model_2_3_joblib
+model_2_4_joblib
+model_2_5_joblib
